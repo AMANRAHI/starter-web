@@ -6,7 +6,8 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	Hey thanks to all who have been with me
+	
     <name>
 
 # TECHNOLOGY COLOPHON
